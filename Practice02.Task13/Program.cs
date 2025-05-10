@@ -31,7 +31,7 @@ class Program
     }
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        
         int[,] matrix = createMatrix(8, 6);
         PrintMatrix(matrix);
     }
